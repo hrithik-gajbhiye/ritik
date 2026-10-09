@@ -21,7 +21,7 @@ const CONFIG = {
   totalPages:    12,  // pages 0 to 11
   passcode:      "11102001", // Secret passcode to unlock during countdown preview
   friendName:    "Trishu",
-
+// 7
   // Universe background metadata
   universeThemes: [
     { name: "joy",    emojis: ["⭐","💛","✨","🌟","💫","🎉"] },
